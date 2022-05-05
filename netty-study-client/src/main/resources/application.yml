@@ -1,0 +1,6 @@
+netty:
+  service:
+    port: 8081
+  client:
+    port: 8081
+    host: localhost
